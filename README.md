@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Huraira
 
-!--
-**dev-huraira/dev-huraira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring software developer passionate about learning and building real-world projects.  
+🚀 Focused on improving skills in web development, problem-solving, and open source.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on small projects to strengthen my coding skills  
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Git/GitHub  
+- 👯 I’m looking to collaborate on beginner-friendly open-source projects  
+- 🤔 I’m looking for help with best practices and clean code  
+- 💬 Ask me about basic programming concepts and learning resources  
+- 📫 How to reach me: GitHub messages  
+- ⚡ Fun fact: I enjoy turning simple ideas into working code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+⭐ Always learning. Always building.
